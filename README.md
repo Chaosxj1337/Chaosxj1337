@@ -1,16 +1,14 @@
-### Hi there 👋
+> <h2> // Discord </h2>
+<p align="center">
+   <a href="https://discord.com/users/1177577782272856076">
+    <img src="https://lanyard.cnrad.dev/api/1177577782272856076?animated=true&hideDiscrim=true&bg=010409" />
+   </a>
+</p>
+<div align="center">
 
-<!--
-**Chaosxj1337/Chaosxj1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> <h2> // about-me </h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Filipino / Indian
+- Currently js,html,java
+- [xavoxz]([https://discord.gg/rippers](https://discord.gg/BUe5RFVKRK)https://discord.gg/BUe5RFVKRK)
+  
